@@ -22,10 +22,11 @@ Projeto desenvolvido como parte do desafio prático da DIO, com o objetivo de co
 | Arquivo | Conteúdo |
 |---|---|
 | [Conceitos EC2](docs/conceitos-ec2.md) | Fundamentos do EC2 |
-| [Segurança EC2](docs/seguranca-ec2.md) | Key Pairs e Security Groups |
+| [Segurança EC2](seguranca-ec2.md) | Key Pairs e Security Groups |
 | [Gerenciamento](gerenciamento-instancias.md) | Operações das instâncias |
 | [Boas práticas e custos](boas-praticas-e-custos.md) | Controle de custos |
 | [Simulação prática](simulacao-pratica.md) | Ciclo de vida de uma instância |
+| [Fluxo de gerenciamento](fluxo-gerenciamento.md) | Etapas do gerenciamento de instâncias |
 
 ## Ferramentas utilizadas
 
